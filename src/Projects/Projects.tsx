@@ -213,7 +213,7 @@ function Projects() {
 
         <div className="links">
           <a
-            href="https://github.com/AsiKrinitz/ReactProject"
+            href="https://github.com/AsiKrinitz/AsiWebsite"
             target="_blank"
             rel="noopener noreferrer"
             className="githubBtn"

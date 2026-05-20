@@ -12,11 +12,11 @@ import { PrivacyPolicy } from "./PrivacyPolicy/PrivacyPolicy";
 import { AccessibilityWidget } from "./AccessibilityWidget/AccessibilityWidget";
 
 function App() {
-  if (window.location.pathname === "/ReactProject") {
-    window.location.replace("/ReactProject/");
+  if (window.location.pathname === "/AsiWebsite") {
+    window.location.replace("/AsiWebsite/");
   }
   return (
-    <Router basename="/ReactProject">
+    <Router basename="/AsiWebsite">
       {/* <-- must wrap all routes */}
       <div className="appRoot">
         <Header />
